@@ -1,0 +1,55 @@
+# ElasticJavaSorting
+POST /coachingclassesidx/_create/001
+{
+"classname": "Brilliant academy",
+"cource" : "Physics",
+"instructor":"Sheldon Kooper",
+"language":"English",
+"seats available":18,
+"fees" : 6000,
+"start_date" : "2022-03-01"
+}
+ 
+POST /coachingclassesidx/_create/002
+{
+"classname": "Brilliant academy",
+"cource" : "Chemistry",
+"instructor":"Tom Nelson",
+"language":"English",
+"seats available":20,
+"fees" : 4000,
+"start_date" : "2023-01-01"
+}
+ 
+POST /coachingclassesidx/_create/003
+{
+"classname": "Brilliant academy",
+"cource" : "Maths",
+"instructor":"Smith Ray",
+"language":"English",
+"seats available":25,
+"fees" : 3000,
+"start_date" : "2022-09-01"
+}
+ 
+POST /coachingclassesidx/_create/004
+{
+"classname": "Brilliant academy",
+"cource" : "Biology",
+"instructor":"Tom Nelson",
+"language":"English",
+"seats available":12,
+"fees" : 2000,
+"start_date" : "2022-04-01"
+}
+ 
+POST /coachingclassesidx/_create/005
+{
+"classname": "Brilliant academy",
+"cource" : "Social Science",
+"instructor":"Ric Johanson",
+"language":"English",
+"seats available":10,
+"fees" : 3000,
+"start_date" : "2021-12-01"
+}
